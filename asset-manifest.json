@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/plantap/static/css/main.6b4532cf.chunk.css",
+    "main.js": "/plantap/static/js/main.d19b6a17.chunk.js",
+    "main.js.map": "/plantap/static/js/main.d19b6a17.chunk.js.map",
+    "runtime-main.js": "/plantap/static/js/runtime-main.4157bd5d.js",
+    "runtime-main.js.map": "/plantap/static/js/runtime-main.4157bd5d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/plantap/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e150fbdd.chunk.js": "/plantap/static/js/2.e150fbdd.chunk.js",
+    "static/js/2.e150fbdd.chunk.js.map": "/plantap/static/js/2.e150fbdd.chunk.js.map",
+    "index.html": "/plantap/index.html",
+    "precache-manifest.b0d548eb49e1a18efa34d61a7786a792.js": "/plantap/precache-manifest.b0d548eb49e1a18efa34d61a7786a792.js",
+    "service-worker.js": "/plantap/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/plantap/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6b4532cf.chunk.css.map": "/plantap/static/css/main.6b4532cf.chunk.css.map",
+    "static/js/2.e150fbdd.chunk.js.LICENSE.txt": "/plantap/static/js/2.e150fbdd.chunk.js.LICENSE.txt",
+    "static/media/banner_img.jpg": "/plantap/static/media/banner_img.ba631b63.jpg",
+    "static/media/logo.png": "/plantap/static/media/logo.0d3d7212.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4157bd5d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e150fbdd.chunk.js",
+    "static/css/main.6b4532cf.chunk.css",
+    "static/js/main.d19b6a17.chunk.js"
+  ]
+}
